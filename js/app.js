@@ -14,5 +14,10 @@ function loadUser()
 
 function displayUser(data)
 {
-    console.log(data);
+    for(const user of data)
+    {
+        // console.log(user.name, user.email, user.phone);
+        // console.log(user);
+        console.log(user.name);
+    }
 }
