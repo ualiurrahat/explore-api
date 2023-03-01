@@ -14,7 +14,7 @@ then we say if we got the json , use it
 
 // many other ways to use above fetch function
 // way 1 
-// const url = 'https://jsonplaceholder.typicode.com/todos/1';
+// const url = const url = 'https://jsonplaceholder.typicode.com/todos/1';;
 // fetch(url)
 // .then(response => response.json())
 // .then(json => console.log(json))
